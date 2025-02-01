@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently a second year Computer Science student studying for my BSc (Hons) at the University of Nottingham (UoN). 
+I am currently a second year Computer Science student studying for my BSc (Hons) at the University of Nottingham (UoN), passionate about devleoping my coding abilities and keen to grasp any/all oppertunities that arise.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dijo-joseph) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dijo1699@outlook.com) 
