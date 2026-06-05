@@ -1,7 +1,7 @@
 # 💫 About Me:
-I am Computer Science graduate from the University of Nottingham (UoN). I am deeply passionate about developing my coding abilities and engineering scalable full-stack applications, and tackling complex software challenges[cite: 4].
+I am Computer Science graduate from the University of Nottingham (UoN). I am deeply passionate about developing my coding abilities and engineering scalable full-stack applications, and tackling complex software challenges.
 
-My major university group projects were developed using the University of Nottingham's secure, internal GitLab environment. A comprehensive breakdown of these enterprise-grade architectures can be found below[cite: 3].
+My major university group projects were developed using the University of Nottingham's secure, internal GitLab environment. A comprehensive breakdown of these enterprise-grade architectures can be found below.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dijo-joseph) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dijo1699@outlook.com) 
@@ -13,13 +13,13 @@ My major university group projects were developed using the University of Nottin
 
 # 🛠️ Featured Engineering Projects:
 ### 🐾 IoT Digital Twin Pet Feeder (Scrumban Group Project)
-*   **Architecture & Microservices:** Engineered standalone **Docker microservices** on a **Raspberry Pi** utilizing **Python (FastAPI)** and **Docker Compose** for continuous deployment stability[cite: 3, 4].
-*   **Hardware Automation:** Authored custom modular classes to control stepper motors and low-level sound alerts via **RPi.GPIO** and **sounddevice** tracking local loop frameworks (10 Hz)[cite: 3].
+*   **Architecture & Microservices:** Engineered standalone **Docker microservices** on a **Raspberry Pi** utilizing **Python (FastAPI)** and **Docker Compose** for continuous deployment stability.
+*   **Hardware Automation:** Authored custom modular classes to control stepper motors and low-level sound alerts via **RPi.GPIO** and **sounddevice** tracking local loop frameworks (10 Hz).
 
-### 🏠 Full-Stack Landlord & Tenant Management Platform (Group Project)[cite: 4]
-*   **System Design:** Structured complete Software Requirements Specifications (SRS) and architecture models for a multi-tiered platform handling automated reviews and landlord-tenant messaging[cite: 4].
-*   **Quality Assurance:** Developed thorough unit and integration testing matrices to preserve application logic and validation rules[cite: 4].
+### 🏠 Full-Stack Landlord & Tenant Management Platform (Group Project)
+*   **System Design:** Structured complete Software Requirements Specifications (SRS) and architecture models for a multi-tiered platform handling automated reviews and landlord-tenant messaging.
+*   **Quality Assurance:** Developed thorough unit and integration testing matrices to preserve application logic and validation rules.
 
-### 🎮 Java Reversi Game with Programmed AI (Individual Project)[cite: 4]
-*   **Design Patterns:** Designed a native desktop gaming system utilizing rigid **Object-Oriented Design (OOD)** principles in **Java**[cite: 4].
-*   **AI Opponent:** Developed custom algorithmic state logic to support an adaptive, single-player opponent experience[cite: 4].
+### 🎮 Java Reversi Game with Programmed AI (Individual Project)
+*   **Design Patterns:** Designed a native desktop gaming system utilizing rigid **Object-Oriented Design (OOD)** principles in **Java**.
+*   **AI Opponent:** Developed custom algorithmic state logic to support an adaptive, single-player opponent experience.
